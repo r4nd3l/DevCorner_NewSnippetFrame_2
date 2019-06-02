@@ -42,6 +42,7 @@
 #_myBtn{
   cursor: pointer;
   margin: 10px;
+  z-index: 100;
 }
 
 /* The Modal (background) */
@@ -57,6 +58,7 @@
   overflow: auto; /* Enable scroll if needed */
   background-color: rgb(0,0,0); /* Fallback color */
   background-color: rgba(21,21,21,0.8); /* Black w/ opacity */
+  z-index: 100;
 }
 
 /* Modal Content */
