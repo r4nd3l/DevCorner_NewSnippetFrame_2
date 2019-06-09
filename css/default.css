@@ -110,7 +110,7 @@
 
 ._close:hover,
 ._close:focus {
-  color: var(--gr-);
+  color: var(--gr2-);
   text-decoration: none;
   cursor: pointer;
 }
